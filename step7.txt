@@ -1,0 +1,10 @@
+{
+  "name": "deploy-base-token",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  },
+  "devDependencies": {
+    "hardhat": "^2.21.0"
+  }
+}
