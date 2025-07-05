@@ -1,0 +1,8 @@
+# Deploy Base Token
+
+This repository contains a simple ERC20 token smart contract and deployment script using Hardhat.
+
+## Features
+- ERC20 token based on OpenZeppelin
+- Hardhat deploy script
+- Configurable supply
