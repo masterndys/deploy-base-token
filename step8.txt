@@ -1,0 +1,5 @@
+# Deployment Notes
+
+1. Compile the contract using `npx hardhat compile`
+2. Deploy using `npx hardhat run scripts/deploy.js --network <network>`
+3. Configure `.env` for private key and RPC
