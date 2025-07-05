@@ -1,0 +1,5 @@
+# Tokenomics
+
+- Name: MyToken
+- Symbol: MTK
+- Total Supply: 1000 MTK (18 decimals)
